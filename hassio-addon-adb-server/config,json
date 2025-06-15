@@ -1,7 +1,7 @@
 {
   "name": "ADB Server with Terminal",
   "version": "1.1.0",
-  "slug": "adb_server_terminal",
+  "slug": "hassio-addon-adb-server",
   "description": "Runs ADB server and provides a web terminal via Ingress",
   "arch": ["armv7", "armhf", "aarch64", "amd64"],
   "startup": "before",
